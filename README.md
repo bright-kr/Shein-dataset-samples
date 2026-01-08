@@ -2,7 +2,7 @@
 
 <h2>1001개 Shein 제품의 샘플 データセット</h2>
 
-![Shein dataset header](https://github.com/luminati-io/Shein-dataset-samples/blob/main/shein-datasets.PNG)
+![Shein dataset header](https://github.com/bright-kr/Shein-dataset-samples/blob/main/shein-datasets.PNG)
 
 1000개 이상의 제품으로 구성된 Shein データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
